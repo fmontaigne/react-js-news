@@ -23,10 +23,13 @@ class NewsCard extends Component {
                             <p>
                                 <i className="material-icons">info</i>
                                 <span>{ text }</span>
+            
                             </p>
                         </div>
                     </div>
                 </div>
+<p className = copy > &#169; 2021</p>
+
             </div>
         )
     }
